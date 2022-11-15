@@ -13,6 +13,7 @@ minikube addons enable ingress
 ### crossplane
 
 [Install crossplane](https://crossplane.io/docs/v1.10/getting-started/install-configure.html#install-crossplane)
+
 [Setup GCP configuration](https://crossplane.io/docs/v1.10/getting-started/install-configure.html#install-crossplane)
 
 ### Create SA
